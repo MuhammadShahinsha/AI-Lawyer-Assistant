@@ -4,5 +4,3 @@ langchain-core
 langchain-community
 langchain-groq
 pypdf
-faiss-cpu
-python-dotenv
