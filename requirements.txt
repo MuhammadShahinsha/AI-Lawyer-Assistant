@@ -1,6 +1,8 @@
-streamlit
 langchain
-langchain-core
 langchain-community
+langchain-text-splitters
 langchain-groq
+langchain-ollama
+faiss-cpu
 pypdf
+streamlit
