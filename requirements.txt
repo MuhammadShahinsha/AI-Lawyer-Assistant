@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 streamlit
 langchain
 langchain-community
@@ -8,13 +7,4 @@ pypdf
 faiss-cpu
 python-dotenv
 sentence-transformers
-=======
-langchain
-langchain-community
-langchain-text-splitters
-langchain-groq
-langchain-ollama
-faiss-cpu
-pypdf
-streamlit
->>>>>>> 5501faa62b9e26c8562e578b0bb730c8bc28d76f
+
